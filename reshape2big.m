@@ -12,7 +12,7 @@ for i =1:num
             ind = (i-1)*64+(H-1)*8+W;
             img = squeeze(output(ind,:,:,:));
         X((H-1)*64+1:H*64,(W-1)*64+1:W*64,:) = img;
-%         imshow(img(:,:,[30,15,2]),[]);
+        imshow(img(:,:,[30,15,2]),[]);
         end
     end
 %     close all

@@ -10,7 +10,10 @@ Python 3.8.5 + Pytorch 1.7.1
 * demo_cave.h5: A testing image from the CAVE dataset, containing "GT" ( 512x512x31), "RGB" (128x128x3) and "LRHSI" (128x128x31).
 * demo_cave_patches_h5: If your GPU memory is too small to run with the whole testing image, we cut the testing image into 64 patches with the size 64x64x31 of GT, 63x64x3 of RGB, and 16x16x31 of LRHSI, respectively.
 
-Download link: https://github.com/J-FHu/Fusformer/releases/tag/Pytorch
+Demo data download link: https://github.com/J-FHu/Fusformer/releases/tag/Pytorch
+
+Complete training and test data download link: 1.https://drive.google.com/drive/folders/11EsA_qLtf306RxEReFSA_iKltdpn-IJT?usp=sharing 2.https://www.aliyundrive.com/s/Y9Ug7JNHPA4
+
 
 ----------------------------------------------------------------------------
 **Code**

@@ -12,7 +12,7 @@ Python 3.8.5 + Pytorch 1.7.1
 
 Demo data download link: https://github.com/J-FHu/Fusformer/releases/tag/Pytorch
 
-Complete training and test data download link: 1.https://drive.google.com/drive/folders/11EsA_qLtf306RxEReFSA_iKltdpn-IJT?usp=sharing  **or** 2.https://www.aliyundrive.com/s/Y9Ug7JNHPA4
+Complete training and test data download link: 1.https://drive.google.com/drive/folders/11EsA_qLtf306RxEReFSA_iKltdpn-IJT?usp=sharing  **or** 2.https://pan.baidu.com/s/1QOClak9iHHhC8Mo1mpVcRQ Code：kjra
 
 
 ----------------------------------------------------------------------------

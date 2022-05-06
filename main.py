@@ -86,8 +86,6 @@ def train(training_data_loader, validate_data_loader,start_epoch=0,RESUME=False)
     plt.ion()
     fig, axes = plt.subplots(ncols=2, nrows=2)
     print('Start training...')
-    total = sum([param.nelement() for param in model.parameters()])
-    print("Number of parameter: %.2fM" % (total / 1e6))
 
     if RESUME:
         path_checkpoint = model_folder+"{}.pth".format(500)
